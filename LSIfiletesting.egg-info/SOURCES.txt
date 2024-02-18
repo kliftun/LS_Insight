@@ -1,0 +1,5 @@
+setup.py
+LSIfiletesting.egg-info/PKG-INFO
+LSIfiletesting.egg-info/SOURCES.txt
+LSIfiletesting.egg-info/dependency_links.txt
+LSIfiletesting.egg-info/top_level.txt
